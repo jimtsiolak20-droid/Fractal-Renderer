@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\jimts\\Documents\\prev_files\\myStuff\\dev\\FractalRenderer\\intermediates\\FractalRenderer.obj",
+            "outputs": [
+                "C:\\Users\\jimts\\Documents\\prev_files\\myStuff\\dev\\FractalRenderer\\intermediates\\FractalRenderer.rc.obj.dt.module.json",
+                "C:\\Users\\jimts\\Documents\\prev_files\\myStuff\\dev\\FractalRenderer\\intermediates\\FractalRenderer.rc.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
